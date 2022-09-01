@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662060921 source:c:\users\yeliz\onedrive\masaüstü\mesafestruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
